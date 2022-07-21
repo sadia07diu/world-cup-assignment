@@ -191,7 +191,9 @@
     padding: 2%;
     text-align: center;
   }
-  
+  .img-flag p,h3{
+    color: aliceblue;
+  }
   
 
   .img-flag1 {
